@@ -1,0 +1,14 @@
+/home/yamac/dotnet/FirstApp/bin/Debug/netcoreapp2.2/FirstApp.deps.json
+/home/yamac/dotnet/FirstApp/bin/Debug/netcoreapp2.2/FirstApp.runtimeconfig.json
+/home/yamac/dotnet/FirstApp/bin/Debug/netcoreapp2.2/FirstApp.runtimeconfig.dev.json
+/home/yamac/dotnet/FirstApp/bin/Debug/netcoreapp2.2/FirstApp.dll
+/home/yamac/dotnet/FirstApp/bin/Debug/netcoreapp2.2/FirstApp.pdb
+/home/yamac/dotnet/FirstApp/obj/Debug/netcoreapp2.2/FirstApp.csprojAssemblyReference.cache
+/home/yamac/dotnet/FirstApp/obj/Debug/netcoreapp2.2/FirstApp.csproj.CoreCompileInputs.cache
+/home/yamac/dotnet/FirstApp/obj/Debug/netcoreapp2.2/FirstApp.RazorAssemblyInfo.cache
+/home/yamac/dotnet/FirstApp/obj/Debug/netcoreapp2.2/FirstApp.RazorAssemblyInfo.cs
+/home/yamac/dotnet/FirstApp/obj/Debug/netcoreapp2.2/FirstApp.AssemblyInfoInputs.cache
+/home/yamac/dotnet/FirstApp/obj/Debug/netcoreapp2.2/FirstApp.AssemblyInfo.cs
+/home/yamac/dotnet/FirstApp/obj/Debug/netcoreapp2.2/FirstApp.RazorTargetAssemblyInfo.cache
+/home/yamac/dotnet/FirstApp/obj/Debug/netcoreapp2.2/FirstApp.dll
+/home/yamac/dotnet/FirstApp/obj/Debug/netcoreapp2.2/FirstApp.pdb
