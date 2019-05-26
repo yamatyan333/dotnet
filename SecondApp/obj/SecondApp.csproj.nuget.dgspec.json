@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/yamac/dotnet/SecondApp/SecondApp.csproj": {}
+  },
+  "projects": {
+    "/home/yamac/dotnet/SecondApp/SecondApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/yamac/dotnet/SecondApp/SecondApp.csproj",
+        "projectName": "SecondApp",
+        "projectPath": "/home/yamac/dotnet/SecondApp/SecondApp.csproj",
+        "packagesPath": "/home/yamac/.nuget/packages/",
+        "outputPath": "/home/yamac/dotnet/SecondApp/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/yamac/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
